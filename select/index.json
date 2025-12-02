@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LiSA『träumerei』 -MUSiC CLiP-（TVアニメ「幻影ヲ駆ケル太陽」オープニングテーマ）",
+  "base_artist": "LiSA",
+  "createdAt": "2025-12-02T09:00:00.444138Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lisa Listen",
+      "artist": "Lisa Loeb",
+      "has_synced": false,
+      "path": "select/pl_01_Lisa_Listen_Lisa_Loeb.txt"
+    }
+  ]
+}
